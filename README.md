@@ -55,6 +55,10 @@ The post-publish and review checklists catch:
 
 PRs welcome. See [CONTRIBUTING.md](./CONTRIBUTING.md). Items get added when they're catchy mistakes that come up repeatedly. Items get removed when they become irrelevant or when YouTube's tools change.
 
+## More
+
+Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
+
 ## License
 
 MIT.
