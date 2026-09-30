@@ -2,6 +2,8 @@
 
 Pre-publish, post-publish, and monthly review checklists for YouTube creators. Useful as a final pass before hitting publish, and as a recurring quality discipline.
 
+An independent project. Not affiliated with, endorsed by, or sponsored by YouTube or Google LLC.
+
 ## Why this exists
 
 Most "creator workflow" content online is course bait. This is a checklist. Print it, save it as a doc, copy it into Notion. Run through it. Ship better videos.
