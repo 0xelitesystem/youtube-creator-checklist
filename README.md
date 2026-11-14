@@ -70,4 +70,4 @@ MIT.
 - [video-script-outline-templates](https://github.com/0xelitesystem/video-script-outline-templates), script structures
 - [video-description-templates](https://github.com/0xelitesystem/video-description-templates), description box structures
 - [affiliate-disclosure-templates](https://github.com/0xelitesystem/affiliate-disclosure-templates), disclosure language
-- [youtube-thumbnail-tester](https://github.com/0xelitesystem/youtube-thumbnail-tester), preview thumbnails in all placements
+- [thumbnail-placement-preview](https://github.com/0xelitesystem/thumbnail-placement-preview), preview thumbnails in all placements
